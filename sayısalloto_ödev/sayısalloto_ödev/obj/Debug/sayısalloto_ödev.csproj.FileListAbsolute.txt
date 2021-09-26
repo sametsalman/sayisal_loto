@@ -1,0 +1,10 @@
+C:\Users\samet\source\repos\sayısalloto_ödev\sayısalloto_ödev\bin\Debug\sayısalloto_ödev.exe.config
+C:\Users\samet\source\repos\sayısalloto_ödev\sayısalloto_ödev\bin\Debug\sayısalloto_ödev.exe
+C:\Users\samet\source\repos\sayısalloto_ödev\sayısalloto_ödev\bin\Debug\sayısalloto_ödev.pdb
+C:\Users\samet\source\repos\sayısalloto_ödev\sayısalloto_ödev\obj\Debug\sayısalloto_ödev.csprojAssemblyReference.cache
+C:\Users\samet\source\repos\sayısalloto_ödev\sayısalloto_ödev\obj\Debug\sayısalloto_ödev.Form1.resources
+C:\Users\samet\source\repos\sayısalloto_ödev\sayısalloto_ödev\obj\Debug\sayısalloto_ödev.Properties.Resources.resources
+C:\Users\samet\source\repos\sayısalloto_ödev\sayısalloto_ödev\obj\Debug\sayısalloto_ödev.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\sayısalloto_ödev\sayısalloto_ödev\obj\Debug\sayısalloto_ödev.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\sayısalloto_ödev\sayısalloto_ödev\obj\Debug\sayısalloto_ödev.exe
+C:\Users\samet\source\repos\sayısalloto_ödev\sayısalloto_ödev\obj\Debug\sayısalloto_ödev.pdb
